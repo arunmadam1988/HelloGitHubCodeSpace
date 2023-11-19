@@ -1,0 +1,15 @@
+/workspaces/HelloGitHubCodeSpace/HelloWorldCodeSpace/bin/Debug/net7.0/HelloWorldCodeSpace
+/workspaces/HelloGitHubCodeSpace/HelloWorldCodeSpace/bin/Debug/net7.0/HelloWorldCodeSpace.deps.json
+/workspaces/HelloGitHubCodeSpace/HelloWorldCodeSpace/bin/Debug/net7.0/HelloWorldCodeSpace.runtimeconfig.json
+/workspaces/HelloGitHubCodeSpace/HelloWorldCodeSpace/bin/Debug/net7.0/HelloWorldCodeSpace.dll
+/workspaces/HelloGitHubCodeSpace/HelloWorldCodeSpace/bin/Debug/net7.0/HelloWorldCodeSpace.pdb
+/workspaces/HelloGitHubCodeSpace/HelloWorldCodeSpace/obj/Debug/net7.0/HelloWorldCodeSpace.csproj.AssemblyReference.cache
+/workspaces/HelloGitHubCodeSpace/HelloWorldCodeSpace/obj/Debug/net7.0/HelloWorldCodeSpace.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/HelloGitHubCodeSpace/HelloWorldCodeSpace/obj/Debug/net7.0/HelloWorldCodeSpace.AssemblyInfoInputs.cache
+/workspaces/HelloGitHubCodeSpace/HelloWorldCodeSpace/obj/Debug/net7.0/HelloWorldCodeSpace.AssemblyInfo.cs
+/workspaces/HelloGitHubCodeSpace/HelloWorldCodeSpace/obj/Debug/net7.0/HelloWorldCodeSpace.csproj.CoreCompileInputs.cache
+/workspaces/HelloGitHubCodeSpace/HelloWorldCodeSpace/obj/Debug/net7.0/HelloWorldCodeSpace.dll
+/workspaces/HelloGitHubCodeSpace/HelloWorldCodeSpace/obj/Debug/net7.0/refint/HelloWorldCodeSpace.dll
+/workspaces/HelloGitHubCodeSpace/HelloWorldCodeSpace/obj/Debug/net7.0/HelloWorldCodeSpace.pdb
+/workspaces/HelloGitHubCodeSpace/HelloWorldCodeSpace/obj/Debug/net7.0/HelloWorldCodeSpace.genruntimeconfig.cache
+/workspaces/HelloGitHubCodeSpace/HelloWorldCodeSpace/obj/Debug/net7.0/ref/HelloWorldCodeSpace.dll
